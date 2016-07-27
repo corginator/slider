@@ -1,4 +1,6 @@
-#Web Presentations with gh-pages! 
+# Slider
+
+- Web Presentations with gh-pages! 
 
 ## Acknowledgements
 - built with [jekyll](https://jekyllrb.com/)
