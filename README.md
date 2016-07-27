@@ -1,5 +1,4 @@
-# GitHub Partner Enablement
-- Web Presentations with gh-pages! 
+#Web Presentations with gh-pages! 
 
 ## Acknowledgements
 - built with [jekyll](https://jekyllrb.com/)
